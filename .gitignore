@@ -1,0 +1,10 @@
+# Common ignore patterns for all branches
+common_ignore_pattern/
+
+# Branch-specific ignore patterns
+[branch "test"]
+package_imp.py
+
+
+# Default ignore patterns for other branches
+*
