@@ -2,9 +2,9 @@
 common_ignore_pattern/
 
 # Branch-specific ignore patterns
-[branch "test"]
-package_imp.py
+["test"]
+README.md
 
 
 # Default ignore patterns for other branches
-*
+package_imp.py
